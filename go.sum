@@ -1,0 +1,9 @@
+github.com/agiledragon/gomonkey/v2 v2.8.0 h1:u2K2nNGyk0ippzklz1CWalllEB9ptD+DtSXeCX5O000=
+github.com/txaty/go-merkletree v0.1.13 h1:1rUomWI48DkOl4lWNiaIa7D9Un+FsnbanmBvl1xkKvw=
+github.com/txaty/go-merkletree v0.1.13/go.mod h1:gqSnNhKT5JZsiK8CfHpVaR900Ti0dJ6AD36KFP0m0Qw=
+github.com/txaty/gool v0.1.4 h1:3NwHLjdNsbITl3aqII8n8d4NYvOQE+3qt7cTLkeEAgM=
+github.com/txaty/gool v0.1.4/go.mod h1:zhUnrAMYUZXRYBq6dTofbCUn8OgA3OOKCFMeqGV2mu0=
+golang.org/x/crypto v0.0.0-20220919173607-35f4265a4bc0 h1:a5Yg6ylndHHYJqIPrdq0AhvR6KTvDTAvgBtaidhEevY=
+golang.org/x/crypto v0.0.0-20220919173607-35f4265a4bc0/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
+golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 h1:SrN+KX8Art/Sf4HNj6Zcz06G7VEz+7w9tdXTPOZ7+l4=
+golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
